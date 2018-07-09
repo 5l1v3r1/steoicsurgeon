@@ -334,6 +334,6 @@ r NETCAT_PORT
 
 
 ```
-Source: [https://github.com/stoicsurgeon/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505](https://github.com/stoicsurgeon/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505)
+Source: [https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505](https://github.com/CybernetiX-S3C/EQGRP_Linux/blob/33810162273edda807363237ef7e7c5ece3e4100/Linux/doc/old/etc/user.mission.generic.COMMON.old#L4447-L4505)
 
 
